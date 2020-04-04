@@ -1,8 +1,6 @@
 # Bootcamp-Arkademy-Batch-12---4
 Seleksi Bootcamp
 
-Belum seluruhnya dipelajari
-
 1. Buatlah sebuah method/function untuk me-return biodata asli Anda, dengan ketentuan sebagai berikut:
 name (String)
 age (Number)
